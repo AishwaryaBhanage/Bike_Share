@@ -34,26 +34,26 @@ The major problem lies in the disparity between the profitability of annual memb
 Prepare
 
 Case Study – Prepare phase
-●	Where is your data located?
+1.	Where is your data located?
 ->	The data is located in an S3 bucket in Amazon AWS.
-●	How is the data organized?
+2.	How is the data organized?
 ->	The data is organized in a structured i.e table format of rows and columns with attribute names given to each column. 
 ->	We have given Trip information, station, and geographical information. That is Bike ID, Start and end time with dates, start and end station along with its latitude and longitude values and the kind of member they are to cyclistic.
-●	Are there issues with bias or credibility in this data? Does your data ROCCC?
+3.	Are there issues with bias or credibility in this data? Does your data ROCCC?
 ->	Upon checking the data looks appropriate to solve the problem, but the data has more number of members than causal riders which makes it imbalanced data.
-●	How are you addressing licensing, privacy, security, and accessibility?
+4.	How are you addressing licensing, privacy, security, and accessibility?
 ->	Bikeshare grants to us a non-exclusive, royalty-free, limited, perpetual license to access, reproduce, analyze, copy, modify, distribute in our product or service and use the Data for any lawful purpose. 
 ->	Prioritizing the anonymization of personal information in the data to protect user privacy.
 ->	Restricting access to bike share data based on role and responsibilities, ensuring that only authorized personnel can handle sensitive information.
 ->	Making it accessible only in a user-friendly format.
-●	How did you verify the data’s integrity?
+5.	How did you verify the data’s integrity?
 ->	By applying data validation rules to check for accuracy and completeness. This can involve checking ranges, formats, and relationships between different data fields.
 ->	Change the format of dates, ride Id, and other fields.
 ->	Implementing checks for duplicate entries within the dataset to maintain data consistency.
 ->	Engaging multiple stakeholders/executives in the data review process.
-●	How does it help you answer your question?
+6.	How does it help you answer your question?
 ->	It helped in understanding the data and making it reliable for further analysis. It also helped in increasing knowledge by referring to other documents.
-●	Are there any problems with the data? 
+7.	Are there any problems with the data? 
 -> There are some fields which have blanks or empty spaces for station information.
 
 Key Tasks:
@@ -70,18 +70,18 @@ Deliverable
 Process
 
 Case Study – Process phase
-•	What tools are you choosing and why?
+1.	What tools are you choosing and why?
 ->	The tools used are Google Sheets and SQL Workplace. It is easy to get familiar with the data to understand it in a proper way and make modifications to ensure its consistency. 
-•	What steps have you taken to ensure that your data is clean?
+2.	What steps have you taken to ensure that your data is clean?
 ->	Check for duplicate data and format of data along with attribute naming conventions.
 ->	We conducted a thorough data profiling analysis to understand the data’s structure, patterns, and quality.
 ->	Use statistical methods to detect and handle outliers that might distort the analysis
-•	How can you verify that your data is clean and ready to analyze?
+3.	How can you verify that your data is clean and ready to analyze?
 ->	By cross verifying if there are any errors or duplicate values present or not. 
 ->	By Computing basic descriptive statistics such as mean, median, standard deviation, and quartiles to identify outliers or unusual values.
 ->	Visualize the data using charts, histograms, and scatter plots to identify any anomalies or unexpected patterns.
 ->	Engage in peer review by having another team member or a domain expert review the dataset and cleaning procedures.
-•	Have you documented your cleaning process so you can review and share those results?
+4.	Have you documented your cleaning process so you can review and share those results?
 ->	Yes, the cleaning process has been documented along with steps taken during the process.
 
 Key Tasks:
@@ -96,11 +96,11 @@ Deliverable
 Analyze
 
 Case Study – Analyze phase
-•	How should you organize your data to perform analysis on it?
-•	Has your data been properly formated?
-•	What surprises did you discover in the data?
-•	What trends or relationships did you find in the data?
-•	How will these insights help answer your business questions?
+1.	How should you organize your data to perform analysis on it?
+2.	Has your data been properly formated?
+3.	What surprises did you discover in the data?
+4.	What trends or relationships did you find in the data?
+5.  X	How will these insights help answer your business questions?
 
 Key Tasks:
 1.	Aggregate your data so it’s useful and accessible.
