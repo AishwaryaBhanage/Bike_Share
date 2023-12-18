@@ -109,7 +109,7 @@ Case Study – Share phase
 •	Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
 •	What story does your data tell?
 •	How do your findings relate to your original question?
-•	Who is audience? What is the best way to communicate with them?
+•	Who is the audience? What is the best way to communicate with them?
 •	Can data visualization help you share your findings?
 •	Is your presentation accessible to your audience?
 Key Tasks:
@@ -126,15 +126,14 @@ Act
 Case Study – Act phase
 •	What is your final conclusion based on your analysis?
 	Through thorough problem analysis, we've uncovered the pivotal role annual memberships play in Cyclistic's success. Historical data serves as a rich resource, guiding the formulation of effective marketing strategies. The importance of understanding user behavior and motivations is a key takeaway, emphasizing the significance of data-driven decision-making in urban transportation.
-Key Tasks:
-1.	Add case study.
+
 Deliverable
 Your top three recommendations based on your analysis
-Targeted Promotions on Weekends:
+1. Targeted Promotions on Weekends:
 Capitalize on the observed trend of casual riders favoring weekends, especially Saturdays. Implement targeted promotional campaigns during these peak days, offering incentives such as discounted annual memberships or bonus ride credits to encourage conversion.
-Exclusive Friday and Saturday Offers:
+2. Exclusive Friday and Saturday Offers:
 Recognize the preference of annual members for Fridays and Saturdays. Design exclusive offers or benefits for casual riders who transition to annual memberships, emphasizing the advantages of riding on these days, such as priority access, special events, or extended ride times.
-Tailored Benefits for Long Rides:
+3. Tailored Benefits for Long Rides:
 Leverage the insight that casual riders engage in longer rides. Develop membership packages that provide additional benefits for extended rides, such as discounted rates for ride durations exceeding a certain threshold. Highlight the cost-effectiveness and convenience of annual memberships for those who frequently enjoy extended rides.
 
 Next Steps:
